@@ -1,0 +1,8 @@
+Welcome to my hotel website.I am barath currently persuing btech cse 3rd year in Hindustan university,chennai.This website is developed by html,css and bootstrap.I am planning to develop this website fully completed as frontend with backend and database integration.This is sample of that beautiful idea which i am going to implement in future.
+
+I published my frontend website through nxtwave platform.
+Website Link:barath18.ccbp.tech
+
+I am learning full stack practically in nxtwave from nov 2023 to 2026.
+
+I will try my best to contribute for company's success.
